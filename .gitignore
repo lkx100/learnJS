@@ -13,3 +13,5 @@ node_modules/
 # Ignore build output
 dist/
 build/
+
+test.js
