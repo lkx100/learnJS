@@ -1,0 +1,104 @@
+{
+    "questions": [
+        {
+            "question": "Which is the largest planet in our Solar System ?",
+            "options": [
+                "Earth",
+                "Jupiter",
+                "Mars",
+                "Saturn"
+            ],
+            "answer": "Jupiter"
+        },
+        {
+            "question": "Which element has \"O\" in it ?",
+            "options": [
+                "Oxygen",
+                "Hydrogen",
+                "Carbon",
+                "Iron"
+            ],
+            "answer": "Oxygen"
+        },
+        {
+            "question": "Which is the largest planet in our Solar System ?",
+            "options": [
+                "Earth",
+                "Jupiter",
+                "Mars",
+                "Saturn"
+            ],
+            "answer": "Jupiter"
+        },
+        {
+            "question": "What's my name ?",
+            "options": [
+                "Lucky",
+                "Abiram",
+                "Sweshik",
+                "Rohan"
+            ],
+            "answer": "Lucky"
+        },
+        {
+            "question": "Which laptop has the best efficient processor ?",
+            "options": [
+                "MacBook",
+                "Windows",
+                "Linux",
+                "Other"
+            ],
+            "answer": "MacBook"
+        },
+        {
+            "question": "How many months are there in a year ?",
+            "options": [
+                "4",
+                "3",
+                "12",
+                "24"
+            ],
+            "answer": "12"
+        },
+        {
+            "question": "What's the speed of light ?",
+            "options": [
+                "3 x 10^8 m/s",
+                "3 x 10^6 m/s",
+                "6 x 10^8 m/s",
+                "3 x 10^6 m/s"
+            ],
+            "answer": "3 x 10^8 m/s"
+        },
+        {
+            "question": "Worst Pick ?",
+            "options": [
+                "Laptop",
+                "Smart Phone",
+                "Tablet",
+                "Smart Watch"
+            ],
+            "answer": "Smart Watch"
+        },
+        {
+            "question": "Capital of India ?",
+            "options": [
+                "Telangana",
+                "Delhi",
+                "Rajasthan",
+                "Gujrat"
+            ],
+            "answer": "Delhi"
+        },
+        {
+            "question": "Total seasons in AOT ?",
+            "options": [
+                "5",
+                "2",
+                "4",
+                "3"
+            ],
+            "answer": "4"
+        }
+    ]
+}
