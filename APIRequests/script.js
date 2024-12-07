@@ -2,7 +2,7 @@ document.getElementById("request").addEventListener("click", function(e) {
     const url = "https://api.github.com/users/lkx100";
     const xhr = new XMLHttpRequest();
     xhr.open("GET", url);
-    xhr.onreadystatechange = function() {
+    xhr.onreadystatechange = function() {   // this method runs on every change in state
         console.log(xhr.readyState);
         if (xhr.readyState === 4) {
             const data = JSON.parse(xhr.responseText);
